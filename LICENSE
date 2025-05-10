@@ -1,21 +1,122 @@
-MIT License
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaMind Academy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f5;
+            color: #333;
+        }
+        header {
+            background-color: #4B0082;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        main {
+            padding: 40px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+        .cta-button {
+            background-color: #4B0082;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 1em;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #36005e;
+        }
+    </style>
+</head>
+<body>
 
-Copyright (c) 2025 profDeniz
+    <header>
+        <h1>NovaMind Academy</h1>
+        <p>Learn AI for free. Join students worldwide. Build GPT-powered solutions.</p>
+    </header>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    <main>
+        <h2>Welcome to the Future of Learning</h2>
+        <p>Empowering the next generation to create with AI and technology.</p>
+        <a class="cta-button" href="https://t.me/NovaMindAcademy">Join Our Telegram</a>
+    </main>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaMind Academy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f5;
+            color: #333;
+        }
+        header {
+            background-color: #4B0082;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        main {
+            padding: 40px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+        .cta-button {
+            background-color: #4B0082;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 1em;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #36005e;
+        }
+    </style>
+</head>
+<body>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    <header>
+        <h1>NovaMind Academy</h1>
+        <p>Learn AI for free. Join students worldwide. Build GPT-powered solutions.</p>
+    </header>
+
+    <main>
+        <h2>Welcome to the Future of Learning</h2>
+        <p>Empowering the next generation to create with AI and technology.</p>
+        <a class="cta-button" href="https://t.me/NovaMindAcademy">Join Our Telegram</a>
+    </main>
+
+</body>
+</html>
