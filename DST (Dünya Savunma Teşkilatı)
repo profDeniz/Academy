@@ -1,0 +1,64 @@
+<section id="about" class="py-12 bg-[#142d47] text-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold mb-4">Hakkımızda</h2>
+    <p class="mb-4">Dünya Savunma Teşkilatı (DST), dünya genelinde barışı, özgürlüğü ve güvenliği güçlendirmek için kurulmuş bağımsız ve uluslararası bir organizasyondur. Amacımız, ülkeler arasında güçlü bağlar kurmak, ortak savunma projeleri geliştirmek ve insan haklarını küresel düzeyde korumaktır.</p>
+    <p>DST, diplomasi, savunma, teknoloji ve stratejik iş birliklerini bir araya getirerek modern bir küresel savunma vizyonu sunar.</p>
+  </div>
+</section>
+
+<section id="vision" class="py-12 bg-[#142d47] text-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold mb-4">Vizyonumuz</h2>
+    <p class="mb-4">Dünya Savunma Teşkilatı (DST), küresel barışı ve insanlığın ortak güvenliğini korumak adına geleceğin en ileri savunma teknolojilerini geliştirmeyi, ülkeler arası dayanışmayı güçlendirmeyi ve özgürlükleri savunmayı hedefler.</p>
+    <h2 class="text-3xl font-bold mb-4 mt-8">Misyonumuz</h2>
+    <p>Dünya genelinde stratejik ortaklıklar kurmak, gelişmiş istihbarat paylaşım sistemleri oluşturmak, üyelerimizi dış tehditlerden korumak ve dünya çapında adalet ve insan haklarını savunmak.</p>
+  </div>
+</section>
+
+<section id="priorities" class="py-12 bg-[#1f3b5b] text-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold mb-4">Stratejik Önceliklerimiz</h2>
+    <ul class="list-disc list-inside space-y-2">
+      <li>Üyelerin güvenliğinin mutlak korunması</li>
+      <li>Gelişmiş savunma altyapısının güçlendirilmesi</li>
+      <li>Uluslararası hukuk ve insan haklarına bağlılık</li>
+      <li>Kriz ve çatışma bölgelerinde proaktif müdahale</li>
+      <li>Küresel savunma inovasyonu ve Ar-Ge projeleri</li>
+    </ul>
+  </div>
+</section>
+
+<section id="ethics" class="py-12 bg-[#0b1d2c] text-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold mb-4">Etik İlkelerimiz</h2>
+    <p>Dünya Savunma Teşkilatı, adalet, şeffaflık, eşitlik ve sorumluluk değerlerine bağlıdır. Her üye ülkenin bağımsızlığına ve halklarının özgürlüğüne saygı duyarız. Tüm operasyonlarımızda uluslararası etik standartlar gözetilir.</p>
+  </div>
+</section>
+
+<section id="slogan" class="py-12 bg-[#142d47] text-white text-center">
+  <div class="container mx-auto px-4">
+    <h2 class="text-4xl font-bold mb-4">Birlikten Güç Doğar, Dünyayı Koruruz!</h2>
+    <p class="text-lg mb-6">DST ile küresel barışın bir parçası olun. Geleceği birlikte inşa edelim.</p>
+    <a href="#membership" class="bg-[#20a39e] hover:bg-[#1c8a85] text-white py-3 px-6 rounded font-semibold transition">Hemen Katıl</a>
+  </div>
+</section>
+
+<section id="membership" class="py-12 bg-[#1f3b5b] text-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold mb-4">Üyelik Başvurusu</h2>
+    <form class="grid grid-cols-1 gap-6">
+      <input type="text" placeholder="Adınız" class="p-3 rounded bg-[#142d47] text-white focus:outline-none">
+      <input type="email" placeholder="E-posta" class="p-3 rounded bg-[#142d47] text-white focus:outline-none">
+      <textarea placeholder="Neden katılmak istiyorsunuz?" rows="4" class="p-3 rounded bg-[#142d47] text-white focus:outline-none"></textarea>
+      <button type="submit" class="bg-[#20a39e] hover:bg-[#1c8a85] text-white p-3 rounded font-semibold transition">Başvur</button>
+    </form>
+  </div>
+</section>
+
+<section id="contact" class="py-12 bg-[#0b1d2c] text-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold mb-4">İletişim</h2>
+    <p class="mb-6">Bize her zaman ulaşabilirsiniz. Sorularınız ve başvurularınız için e-posta adresimiz:</p>
+    <p class="text-lg font-semibold">denizmuzaffarov64@gmail.com</p>
+  </div>
+</section>
